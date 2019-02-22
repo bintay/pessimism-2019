@@ -1,0 +1,135 @@
+Down time: 19 minutes. I *so* need to find an email app for my phone that will poll faster than every 15 minutes.....
+Yay: It wasn't paranoia to set up full monitoring on my teeny-tiny web site. Boo: It's no longer safe to blindly run "apt-get upgrade".
+Seriously, how does a language that uses white space as a block delimiter become this popular? #GlenInPythonLand
+OSS tool isn't behaving, and doesn't log enough to know why. Diving in &amp; realize I don't know the language enough to add prints. ¯\_(ツ)_/¯
+5-line script does what I want, but no error handling. Use it? Add error handling myself? Install/config giant Do-Everything package?
+Wait, was that actually *easy*? Thanks to @disqus, the @ecdex blog, 
+- Recovery over Perfection
+- Predictability over Commitment
+- Safety Nets over Change Control
+- Collaboration o…
+New blog post 
+.@onealexharms  I just found this 
+@onealexharms Because we all want to know what you think, and you're kind enough to do us the favor?
+@onealexharms The year felt optimistic, implying the promise of a '17. But perfectly happy with shorter.
+@onealexharms It's really good--a subset of her latest book, which I also highly recommend.
+@onealexharms This was in the "pipe dream" category for me, but you're right--I shouldn't have self-edited.
+@onealexharms quoting: You have to copy/paste the link to your tweet by hand, but then it renders right.
+@onealexharms If I had three wishes for #JoyConf16, one of them would be for... 
+"If you say 'Sure, no problem'...you've just burned a lot more cognitive resources." 
+Too long since I visited @avdi's 
+Stop using twitter? Great. 
+That thing where you wake up to discover your ISP's spam filter has eaten half your email.... oh, technology, you're so cute.
+I'm going to be in New Orleans in January! I bet you'd like to, too. 
+
+Making Badass Developers - Kathy Sierra (Serious Pony) keynote 
+D'oh! Nobody's committed to this repository but me, and I *still* managed to "break the build." Alas.
+.@mikegehard One repo: Multiple increases friction of keeping whole team familiar with all code. Multiple can easily become (too) Many.
+He was always my favorite (from 
+Third Monday working full-time on @ecdex. Two of six weeks to next self-set deadline are past, and I'm not sure how I'm doing.
+Yes, this was a promoted tweet. But still it's a pretty amazing stat 
+#talkpay exchange between @scanlime and @vectorpoem: 
+
+California Bookstore Day and Free Comic Book Day (#FCBD)! I'm not going home until I've way too much to read.
+Yup, it doesn't feel like a real web site until it has @newrelic turned on.
+
+even in 2015, our airplanes have integer overflow bugs 
+Before I left my last job (two weeks ago), I was making $155K/year plus stock perks. #TalkPay #MayDay (software eng, &gt;20 years, Ruby/Rails)
+Yesterday I was doing budgeting, and learned exactly what I already knew: for a software company, everything is small compared to salaries.
+So busy! No time for anything but work.... and the first showing of "Age of Ultron"
+Ooops. Perhaps you wanted that Google search ad not to go to a 404 page? #sonothiringyou 
+except use GPL (via @joshsusser) MT @duncan: just published “Code standards that matter” 
+Choosing between cloud service companies A and B. A: $10/month, sucky API. B: $30/month, API looks better. B wins. (But both XML :-(
+The last day and a half have been spent mostly in research. And once again @xkcd describes the universe exactly 
+As someone working to launch a (transparent) (Kickstarter'ed) startup, this is so inspiring &amp; encouraging 
+
+UNLESS YOU’RE WRITING JAVASCRIPT IN WHICH CASE BOTH DAYS AND DECADES ARE NaN
+Wow. Taking HTML apart using regular expressions. This afternoon feels like a 1990s flashback.
+
+some highlights:
+
+1,563: a number of items large enough to justify writing a screen-scraping script.
+I knew @zapier was cool (we used them @pivotaltracker), but they've also published this amazing wisdom goldmine 
+Why yes, I did just mis-type "apt-get" as "apt-git" #thedangersofdevops
+Seriously? Atom, for programming, needs OpenGL/GLX? I'm thinking that's not the best dependency for a glorified text editor...
+LXQT, which 
+@underpope I'm thinking it will be blog-post worthy. I'll tweet a link once things are working and it's written.
+Wow, it has been a *long* time since I've seen a raw X-Windows display (setting up VNC to an AWS instance) 
+.@lisacrispin Yeah. My new org is going to be all distributed. And GH avatars work directly against something like 
+
+
+I'm conflicted over profile pics in tools: yes, social links &amp; quick recognition, but don't they re-introduce implicit bias to interactions?
+As a @pivotaltracker user, surprised to see this ad. All I can think is "Gah, so little information, so much avatar." 
+Nothing but writing emails today up until lunch. Always interesting to see which non-coding things feel productive. Today: yes!
+I know it's just spring, but this whole "sunshine in the morning" thing keeps making me think I've over-slept.
+@adamgoucher Using @pivotaltracker's cross-project workspace? Shows you the backlogs side-by-side, but not integrated into one stream.
+@openaccess_rr Hi. I think you probably wanted to follow this account rather than 'dotglen'.
+Why thank you spam filter, the email I most wanted you to eat was the test message from the new email config. *runs away screaming*
+DNS configuration changes, email setup: things that cause you to spend ages clicking "refresh"
+Writing an email. Have to Google a fact. Oh, Earth Day. Hey, tweet about Earth Day. Great, done. Now, back to my email, and.... d'oh!
+Just set up with @mail_gun. I'm now imagining all the site's email coming out of this 
+Yeah, don't know where that MX record went, but we're sure not getting email without it.... (oh, propagation delay, *you're* my favorite)
+OMG. So much to do. Must put more things on the end of the to-do list, and not so many on the front.
+8:05am Pacific. Same bat time, entirely different bat channel.
+
+
+"Gotchas From Two Years With #Node" 
+Wow. Is it really too much to want all four? Why make things harder than they have to be? 
+Anecdotal observation: there's a strong correlation between seniority of developer and unwillingness to accept a flakey tool chain. You too?
+New storify about 
+How do you know your software project is still "small?" You can git force-push to master without fearing the ceiling will fall on you.
+@bourgtai "You want to leave? The door's that way."
+@bourgtai Synergy!
+
+E.g. "hey there, I'll put u in my quorum …
+I need a thing on my phone that goes off every 6 hours and says "It's been N days since you wrote a blog post," but only when N &gt; 2.
+JavaScript programming:  it's promises all the way down.
+"We won't know until we try. Well, actually, knowing before we try would be way too much work."
+25 minutes to take 
+@abedra #phillyete
+
+ORANGE IN THE AFTERNOON
+
+AND GREEN IN THE EVENING?
+
+WRONG! WE DON’T HAVE INTEGRATION TESTS
+Unloveable man-jorts,
+You can help Tor!
+Write pluggable transports
+
+
+Start Writing Regexes!
+
+Contribute To @HTTPSEverywhere Today 
+@Storifyhelp Almost all sorted, thanks. Things are working, only glitch left is it's retained the avatar from the wrong twitter account.
+TIL that I completely broke my @Storify account by changing my twitter handle. Maybe I can set a passwd  by recovery? And change that name?
+Wow. $411k in ARR and @TryGhost just made all of their revenue metrics completely public: 
+TIL about the free/public SSL Server Test 
+Oh, it's so green and shiny..... 
+Let's see, where was I when I stopped last night....? Oh, right, trying to install this new SSL certificate. #HTTPSEverywhere
+...then scanned for pronounceability, and Google to search for potential collisions &amp; prior use.
+@bourgtai All the four-letter .com's are used up, but that's basically how I got 
+"Blacklist" is so much less menacing when I'm coding than watching TV....
+(a different) "12 passing, 1 failing", but again time to change contexts.
+Ah... first new phone in 7 years (yes, really) just arrived. I know what I'm doing at lunch.... #SoAndroid #VerySamsung #Wow
+"11 passing, 1 pending" Seems like an excellent moment to change tasks.
+If you're writing a client for someone else's API, and you find yourself polling them for state every minute, maybe change to a webhook?
+Serious organizational smell: when team retrospectives go from being energizing to dreaded chores that leave people exhausted.
+(1) April Fool's fake tech news goes way back. (2) Yes, I had this magazine at the time. 
+Funny. Not having transactional fixtures in the test framework sure does push me to write fewer "unit" tests with db dependencies....
+Noticing: knowing what the right solution is, and knowing that I can't afford to implement it that way, can lead to an evening of surfing.
+Coworker pointed me to the Google Developers "Web Fundamentals" materials 
+Things I'm sorry I thought, let alone said: "So, instead of Monrovia, we need a timezone that isn't London but observes BST?"
+London changed off of "British Summer Time" over the weekend, causing one of our unit tests to fail. Of course.
+That moment when you get a big blob of code working ( \o/ ), then realize you need to build infrastructure to write your next test (*oof*).
+Drove past a guitarist busking. Couldn't hear what he was playing, but now I've got the "Veronica Mars" theme for an #earworm.
+You know what I'm not great at? CSS. (*Why* is that DIV a pixel low?)
+Oh...... environment variables. Maybe we shouldn't be so dependent.....
+But! But.....but? Last time I was in this code, everything was green. And now, the Gruntfile won't even load?
+@pythe !!SPACESHIP!!    (
+@booksrg8 Hi!
+@drewmck *waves*
+#FF @onealexharms and her projects @hellomaitria and 
+New blog post: if your #mochajs test runner waits TOO LONG on exit when you use #knexjs  
+Profile header image: detail of LED art at DEN gate B52 
+Avatar image: me at the New Space 2008 conference, 
